@@ -1,2 +1,2 @@
 # akureshi
-insertion sorting programm
+Sorting by Heap Sorting method
