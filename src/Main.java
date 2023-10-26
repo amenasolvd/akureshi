@@ -11,6 +11,5 @@ public class Main {
         ob.heapSort(arr);
         System.out.println("Sorted Array is:     ");
         System.out.println(Arrays.toString(arr));
-
     }
 }
